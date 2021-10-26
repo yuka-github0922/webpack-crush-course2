@@ -1,0 +1,25 @@
+{
+  "name": "webpack-crush-course2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuka-github0922/webpack-crush-course2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuka-github0922/webpack-crush-course2/issues"
+  },
+  "homepage": "https://github.com/yuka-github0922/webpack-crush-course2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
