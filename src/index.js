@@ -1,3 +1,4 @@
+import _ from 'lodash';
 // lodashの機能を使用する
 // 配列連結させて表示する
 const component = () => {
