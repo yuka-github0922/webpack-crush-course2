@@ -1,4 +1,6 @@
 import _ from 'lodash';
+import './style.css';
+
 // lodashの機能を使用する
 // 配列連結させて表示する
 const component = () => {
@@ -9,3 +11,4 @@ const component = () => {
 }
 
 document.body.appendChild(component());
+document.body.classList.add('haikei');
