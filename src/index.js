@@ -3,7 +3,7 @@ import _ from 'lodash';
 // 配列連結させて表示する
 const component = () => {
  const element = document.createElement('div');
- const array = ['hello', 'webpack'];
+ const array = ['hello', 'webpack', '!'];
  element.innerHTML = _.join(array, ' ')
  return element;
 }
